@@ -33,7 +33,8 @@ const Author = () => {
         variant="h5"
         href="https://github.com/wthoutjc"
         sx={{
-          color: "white",
+          color: "#001122",
+          ml: 1,
         }}
       >
         Mira el código en GitHub
