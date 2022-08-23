@@ -29,6 +29,15 @@ const Author = () => {
       >
         Juan C. Ramírez
       </Link>
+      <Link
+        variant="h5"
+        href="https://github.com/wthoutjc"
+        sx={{
+          color: "white",
+        }}
+      >
+        Mira el código en GitHub
+      </Link>
     </Box>
   );
 };
