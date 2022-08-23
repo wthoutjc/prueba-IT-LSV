@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&family=Oswald&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif !important;
+  box-sizing: border-box;
+}
+#root {
+  overflow: hidden;
+}
+.register__app {
+  width: 100vw;
+  height: 100vh;
+  background-color: #338bfd;
+  overflow: auto;
+}
+.body1 {
+  font-family: "Manrope", sans-serif !important;
+}
